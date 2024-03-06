@@ -1,6 +1,6 @@
-import MainContainer from "./component/MainContainer";
-import FooterComponent from "./component/footer/FooterComponent";
-import NavbarComponent from "./component/navbar/NavbarComponent";
+import MainContainer from "./components/MainContainer";
+import FooterComponent from "./components/footer/FooterComponent";
+import NavbarComponent from "./components/navbar/NavbarComponent";
 
 function App() {
 	return (

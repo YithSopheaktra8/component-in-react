@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from "react";
-import Me from "../../public/assets/me.jpg";
+import Me from "../../../public/assets/me.jpg";
 
 export default function FeedbackComponent() {
 	return (

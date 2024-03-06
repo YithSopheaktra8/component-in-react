@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from "react";
-import CardComponent from "./CardComponent";
-import FeedbackComponent from "./FeedbackComponent";
+import CardComponent from "./card/CardComponent";
+import FeedbackComponent from "./card/FeedbackComponent";
 
 export default function MainContainer() {
 	const cardCount = 8;
